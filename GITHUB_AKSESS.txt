@@ -1,0 +1,9 @@
+git config --global user.email "najzmipudintea@gmail.com"
+git config --global user.name "pudinsi"
+git init 
+git add .
+git commit -m "Commit Pertama"
+git branch -M main
+git remote add origin https://github.com/pudinsi/api_sederhana.git
+git pull origin main
+git push -u origin main
