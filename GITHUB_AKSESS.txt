@@ -1,5 +1,5 @@
-git config --global user.email "najzmipudintea@gmail.com"
-git config --global user.name "pudinsi"
+git config --global user.email "@gmail.com"
+git config --global user.name "pudin"
 git init 
 git add .
 git commit -m "Commit Pertama"
